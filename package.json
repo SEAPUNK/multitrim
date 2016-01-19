@@ -1,0 +1,26 @@
+{
+  "name": "multitrim",
+  "version": "1.0.0",
+  "description": "multiline string trimming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seapunk/multitrim.git"
+  },
+  "keywords": [
+    "template",
+    "string",
+    "multiline",
+    "trim",
+    "trimming"
+  ],
+  "author": "ivan k <ivan@sq10.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seapunk/multitrim/issues"
+  },
+  "homepage": "https://github.com/seapunk/multitrim#readme"
+}
