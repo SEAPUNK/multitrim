@@ -11,9 +11,9 @@ const tpl = `
 
 tpl /*\n  indentation, yeah!\n*/
 
-multitrim(tpl) /*\nindentation, yeah!\n*/
+multitrim(tpl) /*indentation, yeah!*/
 
-// aggressive mode: do String.trim() before doing the multitrim
-multitrim(tpl, true) /*indentation, yeah!*/
+// loose mode: don't do String.trim() before doing the multitrim
+multitrim(tpl, true) /*\nindentation, yeah!\n*/
 
 ```
