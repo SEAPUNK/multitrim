@@ -1,4 +1,6 @@
 # multitrim
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SEAPUNK/multitrim.svg)](https://greenkeeper.io/)
 multiline string trimming
 
 ```javascript
